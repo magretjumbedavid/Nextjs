@@ -80,7 +80,7 @@ export default function FlashSales() {
     <div className="p-6 max-w-7xl mx-auto">
       <div className="flex items-center space-x-2 mb-4">
         <div className="w-5 h-8 bg-red-600 rounded-md" />
-        <h2 className="text-red-600 font-semibold">Today's</h2>
+        <h2 className="text-red-600 font-semibold">Todays</h2>
       </div>
       <h1 className="text-3xl font-bold mb-6">Flash Sales</h1>
 
